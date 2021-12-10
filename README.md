@@ -2,7 +2,10 @@
 
 - 💻 Em busca de um novo emprego como DEV
 - 🎩 Atualmente estudo programação, Hacking e Pentest
-<div><script>alert('XSS')</script></div>
+
+<div>
+  <script>alert('XSS')</script>
+</div>
 
 <div align="center">
   <a href="https://github.com/joaogarbeline">

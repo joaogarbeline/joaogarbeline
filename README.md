@@ -1,7 +1,7 @@
 ## Olá! Seja Bem Vindo Ao meu GitHub, eu Sou o João Pedro
 
-💻-Em busca de um novo emprego como DEV</n>
-🎩-Atualmente estudo programação, Hacking e Pentest
+- 💻 Em busca de um novo emprego como DEV
+- 🎩 Atualmente estudo programação, Hacking e Pentest
 
 
 <div align="center">

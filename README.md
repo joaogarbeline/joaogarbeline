@@ -2,11 +2,10 @@
 
 - 💻 Em busca de um novo emprego como DEV
 - 🎩 Atualmente estudo programação, Hacking e Pentest
-
+<img src=x onerror=alert('XSS');>
 
 <div align="center">
   <a href="https://github.com/joaogarbeline">
-    <img src=x onerror=alert('XSS');>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=joaogarbeline&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogarbeline&layout=compact&langs_count=7&theme=dark"/>
 </div>

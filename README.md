@@ -1,6 +1,6 @@
 ## Olá! Seja Bem Vindo Ao meu GitHub, eu Sou o João Pedro
 
-- 💻 Em busca de melhorar 1% a cadda dia
+- 💻 Em busca de melhorar 1% a cada dia
 - 🎩 Aluno OneBitCode
 
 <div align="center">

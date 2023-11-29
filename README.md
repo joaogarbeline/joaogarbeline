@@ -1,7 +1,7 @@
 ## Olá! Seja Bem Vindo Ao meu GitHub, eu Sou o João Pedro
 
 - 💻 Em busca de melhorar 1% a cada dia
-- 🎩 Aluno OneBitCode
+- 🎩 DevOps
 
 <div align="center">
   <a href="https://github.com/joaogarbeline">
